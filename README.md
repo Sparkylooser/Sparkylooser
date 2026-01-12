@@ -1,16 +1,38 @@
-## Hi there 👋
+# 👋 Hey, I’m GodRuassa
+I design ideas and build them into things that *work*.
 
-<!--
-**Sparkylooser/Sparkylooser** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Currently exploring:
+- 🎨 Creative design & visual systems  
+- 🐍 Python (learning by building, not watching)  
+- 🎵 Music, generative ideas, and digital experiments  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🧠 What I care about
+- Simplicity over noise  
+- Taste over trends  
+- Learning in public  
+- Shipping > perfection  
+
+---
+
+### 🛠 Tools & Skills
+- Design: Figma, Adobe Suite  
+- Code: Python (beginner, consistent)  
+- Creative: Branding, visuals, concept building  
+
+---
+
+### 🌱 Right now
+- Building small Python projects  
+- Experimenting with creative tech  
+- Improving one skill at a time  
+
+---
+
+### 📫 Reach me
+- Instagram: _yourhandle_
+- Portfolio: _link_
+- Email: _you@example.com_
+
+> Slow growth. Real work. No shortcuts.
